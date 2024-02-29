@@ -1,0 +1,43 @@
+body {background-color: rgb(187, 43, 43);}
+
+#log:hover {
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(48, 4, 4);
+    color: darkred;
+}
+
+#log {background-color: rgb(255, 255, 255);
+    border-color: black;
+}
+
+#sign:hover {background-color: rgb(0, 0, 0);
+    border-color: darkred;
+    color: darkred;
+}
+
+#sign {
+    border-color: black;
+}
+
+#thead th {
+    border: 2px solid #000000;
+}
+
+.tbody td {
+    border: 2px solid #000000;
+}
+
+p {
+    font-size: 35px;
+}
+
+#log {
+    font-size: 35px;
+    width: 150px;
+    height: 50px;
+}
+
+footer {
+    border-color: #000000;
+    color: black;
+}
